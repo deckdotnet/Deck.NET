@@ -1,4 +1,4 @@
-# ![deckdotnet-logo](https://cloud.githubusercontent.com/assets/53624/18585989/fcc762e8-7c22-11e6-902e-108177aa78c2.png)
+# ![deckdotnet-logo](https://user-images.githubusercontent.com/53624/103765828-dfe55b00-502e-11eb-88a4-4ba5f6a5e6d7.png)
 
 An online C#-to-JavaScript compiler for live testing [Bridge.NET](http://bridge.net/).
 
